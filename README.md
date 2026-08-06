@@ -11,7 +11,7 @@
 - 🛠️ Building scalable systems with **FastAPI, Go, Next.js, Docker, Kubernetes, RabbitMQ, and PostgreSQL**.
 - 🌱 Currently exploring **Distributed Systems, Kubernetes, and Cloud Infrastructure**.
 - 👯 Always open to collaborating on impactful open-source and AI projects.
-- 📫 Reach me at **koushik.mbp@gmail.com** or connect on **[LinkedIn](https://linkedin.com/in/koushik-m-bhagavath)**:
+- 📫 Reach me at **koushik.mbp@gmail.com** or connect on **[LinkedIn](https://linkedin.com/in/koushik-m-bhagavath)**
 
 ---
 
